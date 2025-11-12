@@ -1,9 +1,11 @@
 ---
-title: Notes - Anthony Fu
+title: Notes - 3urek4
 art: plum
 display: ''
 ---
 
 <SubNav />
 
-<ListPosts only-date type="note" />
+<div class="text-center py-12">
+  <p class="text-gray-500 dark:text-gray-400">No notes yet. Coming soon!</p>
+</div>

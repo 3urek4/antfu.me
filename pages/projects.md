@@ -1,33 +1,15 @@
 ---
-title: Projects - Anthony Fu
+title: Projects - 3urek4
 display: Projects
-description: List of projects that I am proud of
+description: List of my projects
 wrapperClass: 'text-center'
 art: dots
 projects:
-  Current Focus:
-    - name: 'Vite DevTools'
-      link: 'https://github.com/vitejs/devtools'
-      desc: 'Inspect the intermediate state of Vite bundle and pipeline'
-      icon: 'i-simple-icons-vite'
-    - name: 'Nuxt DevTools'
-      link: 'https://github.com/nuxt/devtools'
-      desc: 'Unleash Nuxt Developer Experience'
-      icon: 'i-logos-nuxt-icon saturate-0'
-    - name: 'Nuxt Playground'
-      link: 'https://github.com/nuxt/learn.nuxt.com'
-      desc: 'Interactive Playground for learning Nuxt'
-      icon: 'i-logos-nuxt-icon saturate-0'
-
-  Nuxt Ecosystem:
-    - name: 'Nuxt'
-      link: 'https://github.com/nuxt/nuxt'
-      desc: 'The intuitive Vue Framework. (Team member)'
-      icon: 'i-logos-nuxt-icon saturate-0'
-    - name: 'Nuxt Playground'
-      link: 'https://github.com/nuxt/learn.nuxt.com'
-      desc: 'Interactive Playground for learning Nuxt'
-      icon: 'i-logos-nuxt-icon saturate-0'
+  My Projects:
+    - name: 'Coming Soon'
+      link: '#'
+      desc: 'New projects will be added soon'
+      icon: 'i-carbon-code'
     - name: 'Nuxt DevTools'
       link: 'https://github.com/nuxt/devtools'
       desc: 'Unleash Nuxt Developer Experience'

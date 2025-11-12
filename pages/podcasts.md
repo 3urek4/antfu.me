@@ -1,33 +1,8 @@
 ---
-title: Podcasts - Anthony Fu
+title: Podcasts - 3urek4
 display: ''
 art: plum
-items:
-  - title: 'Exploring Vitesse with Anthony Fu - Views on Vue #144'
-    date: '2021-03-02'
-    path: 'https://viewsonvue.com/144'
-    radio: true
-  - title: 'Shaving Yaks with Anthony Fu - Enjoy the Vue #62'
-    date: '2021-05-24'
-    path: 'https://enjoythevue.io/episodes/62'
-    radio: true
-  - title: 'Anthony Fu 线上访谈 - Vue Shenzhen Meetup '
-    date: '2021-11-02'
-    path: 'https://www.bilibili.com/video/BV1jL4y1q76J'
-    lang: 'zh'
-    video: true
-  - title: '跟 Anthony Fu 聊聊全职开源和他的故事 - ByteTalk #6'
-    date: '2021-12-09'
-    path: 'https://bytetalk.fm/posts/episode-6/'
-    lang: 'zh'
-    radio: true
-  - title: 'Vitest && Slidev - JS Party #214'
-    date: '2022-02-17'
-    path: 'https://changelog.com/jsparty/214'
-    radio: true
-  - title: 'Vite and Its Ecosystem - React Wednesdays'
-    date: '2022-02-25'
-    path: 'https://www.youtube.com/watch?v=ivmuJ9L_NnQ'
+items: []
     video: true
   - title: 'Vue, Vite, Vitest, UnoCSS - devtools.fm #25'
     date: '2022-03-04'

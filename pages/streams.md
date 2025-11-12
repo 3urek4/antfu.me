@@ -1,33 +1,8 @@
 ---
-title: Streams - Anthony Fu
+title: Streams - 3urek4
 display: ''
 art: plum
-items:
-  - title: '用 Vue 写个扫雷吧！'
-    date: '2022-03-09'
-    path: 'https://www.bilibili.com/video/BV1ia411b7jY'
-    platform: Bilibili
-    lang: 'zh'
-  - title: '用 Vue 写个扫雷之二'
-    date: '2022-03-12'
-    path: 'https://www.bilibili.com/video/BV15b4y1s7it'
-    platform: Bilibili
-    lang: 'zh'
-  - title: '用 Canvas 做梅花生长动画'
-    date: '2022-03-15'
-    path: 'https://www.bilibili.com/video/BV1wY411n7er'
-    platform: Bilibili
-    lang: 'zh'
-  - title: '实现 UnoCSS 自动补全'
-    date: '2022-03-15'
-    path: 'https://www.bilibili.com/video/BV1y3411W7YG'
-    platform: Bilibili
-    lang: 'zh'
-  - title: '写个聪明的打字机'
-    date: '2022-03-20'
-    path: 'https://www.bilibili.com/video/BV1bZ4y167gz'
-    platform: Bilibili
-    lang: 'zh'
+items: []
   - title: '实现 Vite 插件 import.meta.glob'
     date: '2022-03-27'
     path: 'https://www.bilibili.com/video/BV1ea411x7zm'
