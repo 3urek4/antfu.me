@@ -38,6 +38,10 @@ const { y: scroll } = useWindowScroll()
           <span class="lt-md:hidden">Projects</span>
           <div i-ri-lightbulb-line class="md:hidden" />
         </RouterLink>
+        <RouterLink to="/photos" title="Photos">
+          <span class="lt-md:hidden">Photos</span>
+          <div i-ri-image-line class="md:hidden" />
+        </RouterLink>
         <a href="https://github.com/3urek4" target="_blank" title="GitHub" class="lt-md:hidden">
           <div i-uil-github-alt />
         </a>
