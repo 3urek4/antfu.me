@@ -20,7 +20,3 @@ Find me on
 <p flex="~ gap-2 wrap" class="mt--2!">
   <a href="https://github.com/3urek4" target="_blank"><span op75 i-simple-icons-github /> GitHub</a>
 </p>
-
----
-
-<SponsorButtons />

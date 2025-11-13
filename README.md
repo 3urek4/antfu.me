@@ -1,6 +1,6 @@
-**[antfu.me](https://antfu.me)**
+**[3urek4.me](https://3urek4.me)**
 
-my personal website
+3urek4's Personal Blog
 
 <br>
 
